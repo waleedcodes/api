@@ -1,6 +1,6 @@
 [
   {
-    "id": "waleedproduct1",
+    "id": 1,
     "name": "Asus zenbook desktop",
     "company": "Asus",
     "price": "$470",
@@ -16,7 +16,7 @@
     "featured": true
   },
   {
-    "id": "waleedproduct2",
+    "id": 2,
     "name": "Vision Elite Ceiling Fan",
     "company": "Pak Electronic",
     "price": "$150",
@@ -48,7 +48,7 @@
     "featured": true
   },
   {
-    "id": "waleedproduct4",
+    "id": 3,
     "name": "iphone x",
     "company": "Apple",
     "price": "5000",
